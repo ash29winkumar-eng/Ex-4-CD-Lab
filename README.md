@@ -1,6 +1,8 @@
-# Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC
+# Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-YACC
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
-# Date:23-10-25
+# NAME: K S Ashwin Kumar
+# REG NO:212224040034
+# Date:31-10-2024
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
 # ALGORITHM
@@ -62,7 +64,8 @@ yyerror(char*s)
 }
 ```
 # Output
-<img width="343" height="232" alt="image" src="https://github.com/user-attachments/assets/99399d0f-3c78-4656-adfa-de95ab1303da" />
+![375297684-e96d9e10-5302-4a7f-b640-dd0d63148840](https://github.com/user-attachments/assets/c32640c0-ddc9-49f7-ae77-cba3b53faa2d)
+
 
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
